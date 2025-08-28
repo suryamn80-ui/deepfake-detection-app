@@ -1,9 +1,7 @@
-python==3.9.12
-flask==2.2.2
-urllib
-werkzeug
-tensorflow
-face_recognition
-cv2
+streamlit==1.35.0
+tensorflow==2.15.0
 numpy
-imageio
+pandas
+Pillow
+opencv-python-headless
+h5py
